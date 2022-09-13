@@ -1,0 +1,15 @@
+body{
+background:bisque;
+color:white
+}
+a{color:black;
+text-decoration:none;
+}
+a:hover{color:brown;
+background:grey;
+}
+
+h1{
+font-family:brush script MT;
+
+}

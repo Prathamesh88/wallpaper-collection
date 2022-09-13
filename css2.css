@@ -1,0 +1,15 @@
+body{
+background-image:url("pexels-sam-kolder-2387873.jpg");
+background-size:cover;
+}
+a{color:black;
+text-decoration:none;
+}
+a:hover{color:gold;
+background:grey;
+}
+
+h1{
+font-family:courier new;
+
+}
